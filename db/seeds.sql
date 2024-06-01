@@ -2,7 +2,7 @@ INSERT INTO department (name)
 VALUES
 ("IT"),
 ("Finance & Accounting"),
-"Sales & Marketing"),
+("Sales & Marketing"),
 ("Operations");
 
 INSERT INTO role (title, salary, department_id)
@@ -17,12 +17,13 @@ VALUES
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
-("James, Masterson", 2, null),
-("Johnathan, Gray",1,1),
-("Matthew, Henry", 4, null),
-("Ryan, Moore", 3, 3),
-("Felcia, Miller",6,null),
-("Katy, Sims", 5, 5),
-("Angela, Lovell", 7, 5),
-("Ken, Ryan", 7, null),
-("Jackie, Seigns", 8, 7);
+("James", "Masterson", 2, null),
+("Johnathan", "Gray",1,1),
+("Matthew", "Henry", 4, null),
+("Ryan", "Moore", 3, 3),
+("Felcia", "Miller",6,null),
+("Katy", "Sims", 5, 5),
+("Angela", "Lovell", 7, 5),
+("Ken", "Ryan", 7, null),
+("Jackie", "Seigns", 8, 7);
+
