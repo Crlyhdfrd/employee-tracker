@@ -38,6 +38,6 @@ Assignment Criteria
 In this adignment we were asked to an application from scratch via the command line that is able to manage a company's employee database, using Node.js, Inquirer, and MySQL2.
 
 URL's Submitted
-My Github Repo URL: 
-Video Walkthrough:
+My Github Repo URL: https://github.com/Crlyhdfrd/employee-tracker
+Video Walkthrough: https://app.screencastify.com/v2/manage/videos/ZurJrp6G4tjOYft1deVf
 
